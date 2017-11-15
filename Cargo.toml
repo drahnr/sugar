@@ -1,0 +1,8 @@
+[package]
+name = "sugar"
+version = "0.1.0"
+authors = ["Bernhard Schuster <bernhard@ahoi.io>"]
+
+[dependencies]
+futures = "*"
+error-chain = "*"
